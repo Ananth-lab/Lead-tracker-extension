@@ -1,0 +1,50 @@
+ #save-btn,#clear,#save{
+    display :inline-block;
+    margin : 1rem auto;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border-radius:2px ;
+    padding : 5px;
+}
+
+#input-el{
+display:block;
+width : 200px;
+height: 2rem;
+margin :auto;
+}
+
+#show{
+    margin: auto;
+    padding : 2px;
+}
+
+.container{
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1527769929977-c341ee9f2033?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    max-width: 700px;
+    font-size: 1rem;
+    margin : auto;
+    padding : 1rem;
+    min-width: 200px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    max-width: 500px; 
+}
+li{
+    word-break: break-all;
+    max-width: 500px;
+}
+a:hover{
+    background-color: rgba(0, 3, 177, 0.294);
+    padding : 2px;
+    border-radius: 5px;
+}
+body{
+    background-color: black;
+    color: white;
+}
